@@ -2,6 +2,7 @@ This repo contains following service mesh implementation examples
 
 ## Examples
 * [Istio Service Mesh - GCP clusters](istio-mesh-gke/README.md)
+* [Multicloud Istio Service Mesh - AWS and GCP clusters](istio-mesh-eks-gke/README.md)
 
 
 
