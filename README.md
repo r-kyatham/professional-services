@@ -27,6 +27,7 @@ The examples folder contains example solutions across a variety of Google Cloud 
 * [Cloud Data Fusion Functions and Plugins](examples/cloud-datafusion-functions-plugins) - Examples of Cloud Data Fusion Functions and Plugins.
 * [Cloud Function VM Delete Event Handler Example](examples/gcf-pubsub-vm-delete-event-handler) - Solution to automatically delete A records in Cloud DNS when a VM is deleted.  This solution implements a [Google Cloud Function][gcf] [Background Function][gcf-bg] triggered on `compute.instances.delete` events published through [Stackdriver Logs Export][logs-export].
 * [Cloud SQL Custom Metric](examples/cloud-sql-custom-metric) - An example of creating a Stackdriver custom metric monitoring Cloud SQL Private Services IP consumption.
+* [Cloud Support API](examples/cloud-support) - Sample code using Cloud Support API
 * [CloudML Bank Marketing](examples/cloudml-bank-marketing) - Notebook for creating a classification model for marketing using CloudML.
 * [CloudML Bee Health Detection](examples/cloudml-bee-health-detection) - Detect if a bee is unhealthy based on an image of it and its subspecies.
 * [CloudML Churn Prediction](examples/cloudml-churn-prediction) - Predict users' propensity to churn using Survival Analysis.
@@ -53,6 +54,7 @@ The examples folder contains example solutions across a variety of Google Cloud 
 * [dbt-on-cloud-composer](examples/dbt-on-cloud-composer) - Example of using dbt to manage BigQuery data pipelines, utilizing Cloud Composer to run and schedule the dbt runs.
 * [Data Format Description Language (DFDL) Processesor with Firestore and Pubsub](examples/dfdl-firestore-pubsub-example) - Example to process a binary using DFDL definition and Daffodil libraries. The DFDL definition is stored in firestore, the request to process is done through a pubsub subcription and the output is published is a JSON format in a Pubsub topic.
 * [Dialogflow Webhook Example](examples/dialogflow-webhook-example) - Webhook example for dialogflow in Python.
+* [Dialogflow CX Private Webhook Example](examples/dialogflowcx-private-webhook-example) - Webhook example for Dialogflow CX in Python.
 * [Dialogflow Entities Creation and Update](examples/dialogflow-entities-example) - Creation and update of entities for Dialogflow in Python.
 * [DLP API Examples](examples/dlp) - Examples of the DLP API usage.
 * [GCE Access to Google AdminSDK](examples/gce-to-adminsdk) - Example to help manage access to Google's AdminSDK using GCE's service account identity
